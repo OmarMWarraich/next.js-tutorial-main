@@ -24,7 +24,7 @@
 
 .actions {
     margin-top: 1rem;
-    text-align: right;
+    text-align: center;
 }
 
 .actions button {
@@ -36,6 +36,7 @@
     border: 1px solid #77002e;
     border-radius: 4px;
     font-weight: bold;
+    text-align: center;
 }
 
 .actions button:hover,
